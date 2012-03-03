@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\user\Desktop\FlightOfGlory\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb

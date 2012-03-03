@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\bin\x86\Debug\ParticleSettings.dll
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\bin\x86\Debug\ParticleSettings.pdb
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\obj\x86\Debug\ParticleSettings.dll
+C:\Users\user\Desktop\FlightOfGlory\ParticleSettings\obj\x86\Debug\ParticleSettings.pdb
