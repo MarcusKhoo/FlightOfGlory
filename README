@@ -1,0 +1,18 @@
+Flight of Glory
+
+A 3D dogfight versus game. Written in C# (XNA) for Xbox360. 
+
+Features:
+- 2 players
+- Different aircrafts to choose from
+- Radar system
+- Large city map
+- Obstacles to be avoided while chasing your opponent
+
+How to run the project:
+1) Download the source code
+2) Launch the .sln file
+3) Press F5 and you are ready
+
+NOTE:
+Requires 2 Xbox360 controllers to play.
